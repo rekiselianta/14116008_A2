@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>tugas1</title>
+    <link rel="stylesheet" href="tugas1.css">
+    <style media="screen">
+      .kolom1{
+        float: left;
+        width: 200px;
+        height: 290px;
+        border-left: 2px solid;
+        border-right: 2px solid;
+        background-color: #ffff01;
+      }
+      li{
+        margin: 4px;
+      }
+      .kolom2{
+        float: left;
+        width: 584px;
+        height: auto;
+        border-right: 2px solid black;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="https://miro.medium.com/max/2560/1*Od-UrquQOrcwEkpDwwkCiQ.png" style="width: 784px; height: 200px;">
+    </header>
+    <div class="kolom1" style="background-color: #ffff01;">
+      <ul>
+        <li><a href="#">Beranda</a></li>
+        <li><a href="#">Data Peserta</a></li>
+        <li><a href="#">Apa Itu CSS</a></li>
+        <li><a href="#">Jenis-Jenis CSS</a></li>
+        <li><a href="#">Asal Mula CSS</a></li>
+        <li><a href="#">Cara Kerja CSS</a></li>
+      </ul>
+    </div>
+    <div class="kolom2" style="background-color: #d99896; padding-bottom: 6px;">
+      <p>CSS adalah salah satu bahasa pemrograman desain web (style sheet languages) yang mengontrol
+        format tampilan sebuah halaman web yang ditulis dengan bahasa penanda (markup language)
+        Biasanya CSS digunakan untuk mendesain sebuah halaman HTML dan XHTML, tetapi sekarang
+        bahasa pemrograman CSS bisa diaplikasikan untuk segala dokumen XML, termasuk SVG dan XUL. Silahkan daftarkan dirimu pada form dibawah ini!
+      </p>
+      <p style="font-weight: bold; text-align: center;">Form Pendaftaran</p>
+      <form action="data.php" method="post">
+      <p>
+        <label>Nama Lengkap: </label>
+        <input type="text" name="nama" placeholder="Nama Lengkap">
+      </p>
+      <p>
+        <label>Program Studi: </label>
+        <input type="text" name="prodi" placeholder="Program Studi">
+      </p><p>
+        <label>Angkatan: </label>
+        <input type="text" name="Angkatan" placeholder="Angkatan">
+        <input type="submit" name="submit" value="submit" style="margin: 0 30px;">
+      </p>
+    </div>
+    <footer>
+    <center>
+        <p>
+        &copy; 2020 Reki Selianta - 14116008
+        </p>
+    </center>
+    </footer>
+  </body>
+</html>
