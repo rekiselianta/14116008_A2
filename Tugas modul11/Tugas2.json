@@ -1,0 +1,26 @@
+{
+    "nama": {
+       "awal": "Reki",
+       "tengah": "Seli",
+       "akhir": "anta"
+    },
+    "JenisKelamin": "Laki Laki",
+    "OrangTua": {
+       "ayah": "Selamat",
+       "ibu": "Halimah"
+    },
+    "hobi": {
+       "hobi1": "Bermain Game",
+       "hobi2": "Bermain Badminton",
+       "hobi3": "Bermain Traveling"
+    },
+    "alamat": {
+       "kecamatan": "Kota bumi tengah",
+       "kota": "Kotabumi",
+       "provinsi": "Lampung"
+    },
+    "SosialMedia": {
+       "github": "Rekiselianta",
+       "instagram": "@Rekiselianta"
+    }
+ }
