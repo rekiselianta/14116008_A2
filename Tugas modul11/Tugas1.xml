@@ -1,0 +1,27 @@
+ <?xml version="1.0"?>
+<biodata>
+  <nama>
+        <awal>Reki</awal>
+        <tengah>Seli</tengah>
+        <akhir>anta</akhir>
+  </nama>
+  <JenisKelamin>Laki Laki</JenisKelamin>
+  <OrangTua>
+        <ayah>Selamat</ayah>
+        <ibu>Halimah</ibu>
+  </OrangTua>
+  <hobi>
+        <hobi1>Bermain Game</hobi1>
+        <hobi2>Bermain Badminton</hobi2>
+        <hobi3>Bermain Traveling</hobi3>
+  </hobi>
+  <alamat>
+        <kecamatan>Kota bumi tengah</kecamatan>
+        <kota>Kotabumi</kota>
+        <provinsi>Lampung</provinsi>
+  </alamat>
+  <SosialMedia>
+        <github>Rekiselianta</github>
+        <instagram>@Rekiselianta</instagram>
+  </SosialMedia>
+</biodata> 
